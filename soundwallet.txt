@@ -1,0 +1,38 @@
+How to make a sound wallet
+
+You need
+ANS SYNTH http://www.warmplace.ru/soft/ans/
+Paintbrush or another graphic program
+A public and private key 
+
+
+
+1.Step one - Generate a public and private key, please generate your private key in a safe way
+2.Copy private key to clipboard (or keep your QT or other program open showing the private key)
+3.Paste private key as text into paintbrush, do this at around font size 30-40 
+you need to do this several times like this:
+osposbvpbvpppbvspb1p1b11p1pbp1bp1b1pb
+osposbvpbvpppbvspb1p1b11p1pbp1bp1b1pb
+osposbvpbvpppbvspb1p1b11p1pbp1bp1b1pb
+osposbvpbvpppbvspb1p1b11p1pbp1bp1b1pb
+osposbvpbvpppbvspb1p1b11p1pbp1bp1b1pb
+osposbvpbvpppbvspb1p1b11p1pbp1bp1b1pb
+
+save file
+
+4.Open ANS SYNTH and import the graphic file
+
+5. In the ANS SYNTH menu go to "project"
+Adjust the lowest frequency to the highest possible
+
+6.Export as a .wav file
+
+7.Now your wallet is in audio form, you can now burn it to a CD, Cut a record, or record it to a tape
+
+8.to read your private key you can use the ANS synth or a spectrograph. There is a spectrograph for
+android called "andro spectro" that works well.
+
+9.It is a good idea to encrypt your private keys
+
+enjoy
+
